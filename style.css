@@ -100,12 +100,12 @@ section > p {
 }
 
 .imagem#i1 {
-    background-image: url(fundo-madeira.jpg);
+    background-image: url(imagens/fundo-madeira.jpg);
  
 }
 
 .imagem#i2 {
-    background-image: url(logo-home.jpg);
+    background-image: url(imagens/tela-home.jpg);
  
 }
 
